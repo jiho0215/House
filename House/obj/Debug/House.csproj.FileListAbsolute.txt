@@ -6,3 +6,11 @@ c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\Hous
 c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.csproj.GenerateResource.Cache
 c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.exe
 c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.pdb
+C:\Users\Soodas\Documents\GitHub\House\House\bin\Debug\House.exe.config
+C:\Users\Soodas\Documents\GitHub\House\House\obj\Debug\House.exe
+C:\Users\Soodas\Documents\GitHub\House\House\obj\Debug\House.pdb
+C:\Users\Soodas\Documents\GitHub\House\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+C:\Users\Soodas\Documents\GitHub\House\House\obj\Debug\House.Properties.Resources.resources
+C:\Users\Soodas\Documents\GitHub\House\House\obj\Debug\House.csproj.GenerateResource.Cache
+C:\Users\Soodas\Documents\GitHub\House\House\bin\Debug\House.exe
+C:\Users\Soodas\Documents\GitHub\House\House\bin\Debug\House.pdb
