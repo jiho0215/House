@@ -1,0 +1,8 @@
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\bin\Debug\House.exe.config
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\bin\Debug\House.exe
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\bin\Debug\House.pdb
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.Properties.Resources.resources
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.csproj.GenerateResource.Cache
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.exe
+c:\users\soodas\documents\visual studio 2015\Projects\House\House\obj\Debug\House.pdb
